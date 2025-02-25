@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	auth "github.com/Torkel-Aannestad/argon2-go/internal"
+	auth "github.com/Torkel-Aannestad/Argon2-Go-Guide/internal"
 )
 
 func main() {

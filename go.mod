@@ -1,4 +1,4 @@
-module github.com/Torkel-Aannestad/argon2-go
+module github.com/Torkel-Aannestad/Argon2-Go-Guide
 
 go 1.22.3
 
